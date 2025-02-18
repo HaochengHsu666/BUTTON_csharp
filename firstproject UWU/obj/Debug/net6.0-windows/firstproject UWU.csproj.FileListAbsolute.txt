@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\bin\Debug\net6.0-windows\firstproject UWU.exe
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\bin\Debug\net6.0-windows\firstproject UWU.deps.json
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\bin\Debug\net6.0-windows\firstproject UWU.runtimeconfig.json
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\bin\Debug\net6.0-windows\firstproject UWU.dll
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\bin\Debug\net6.0-windows\firstproject UWU.pdb
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject_UWU.Form1.resources
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.csproj.GenerateResource.cache
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.AssemblyInfo.cs
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.dll
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\refint\firstproject UWU.dll
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.pdb
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\firstproject UWU.genruntimeconfig.cache
+C:\Users\User\Desktop\firstproject UWU\firstproject UWU\obj\Debug\net6.0-windows\ref\firstproject UWU.dll
